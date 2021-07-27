@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://not-found-aa4ca.web.app/}">
+    <a href="https://not-found-aa4ca.web.app/">
       Demo
     </a>
     <span> | </span>
