@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@akchat457](https://github.com/akchat457})
+- GitHub [@akchat457](https://github.com/akchat457)
 - Twitter [@Akchat9](https://twitter.com/Akchat9)
